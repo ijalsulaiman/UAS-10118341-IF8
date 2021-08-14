@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280206914409",
+    "project_id": "wisata-ce306",
+    "storage_bucket": "wisata-ce306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280206914409:android:7ea5c1a05c9661af8443f8",
+        "android_client_info": {
+          "package_name": "com.akb.uas_akb_10118341"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280206914409-jmh75gc2p7d11jifgeg158a6rpik9de5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgbVOJKr3iPs5TtGYwPufco3NnReoUuyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280206914409-jmh75gc2p7d11jifgeg158a6rpik9de5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

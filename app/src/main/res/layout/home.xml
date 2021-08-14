@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    /**
+    Nama       : Muhammad Rijal Sulaeman
+    Kelas      : IF-8
+    NIM        : 10118341
+    Tanggal    : 14 Agustus 2021
+    **/
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Daftar Wisata Bandung Raya"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_wisata"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
